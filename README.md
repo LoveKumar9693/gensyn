@@ -118,3 +118,8 @@ NOTE - NODE RUN HONE K BAAD YE COMMAND DAAL K SCREEN CHEK KAR LENA 👇👇👇
 ```
 screen -r gensy
 ```
+
+
+# THANK YOU 👍
+
+# JOIN MY CHANLLE - https://t.me/earningloveg
