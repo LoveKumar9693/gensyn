@@ -82,7 +82,7 @@ cloudflared tunnel --url http://localhost:3000
 * Access the Link from your local machine
 
 
-# NOW LOGIN ERROR SOLUTION 
+# 🛑🛑🛑🛑🛑 NOW LOGIN ERROR SOLUTION 🛑🛑🛑🛑🛑
 
 ```
 pkill -f "SCREEN.*gensyn"
