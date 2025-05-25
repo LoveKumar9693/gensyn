@@ -31,6 +31,11 @@ source .venv/bin/activate
 ./run_rl_swarm.sh
 ```
 
+# AFTER COMPLETE THIS STEP 
+# SELECT MATH A
+# 0.5
+# HUGGING PHASE - N
+
 # 1️⃣ How to Login or access  http://localhost:3000/ in VPS? 📶
 
 * Open a new Terminal and login ur vps 
