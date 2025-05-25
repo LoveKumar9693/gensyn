@@ -121,12 +121,16 @@ cloudflared tunnel --url http://localhost:3000
 
 NOTE - NODE RUN HONE K BAAD YE COMMAND DAAL K SCREEN CHEK KAR LENA 👇👇👇
 
-# AFTER ALL STEP CHECK YOUR NODE SCREEN COMMAND 👇👇👇
+# AFTER ALL STEP CHECK YOUR NODE SCREEN COMMAND 🛑
 
 ```
 screen -r gensy
 ```
+# 🛑🛑 NODE PARMANENTLY DELETE COMMAND 🛑🛑👇👇
 
+```
+sudo rm -rf ~/rl-swarm
+```
 
 # THANK YOU 👍
 
