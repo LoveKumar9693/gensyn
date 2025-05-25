@@ -111,6 +111,10 @@ source .venv/bin/activate
 
 🛑AGAR LOGIN KA OPTION NA AAYE TO V LOCAL HOST WALA COMMAND DAAL K LOGIN KARN 🛑
 
+```
+cloudflared tunnel --url http://localhost:3000
+```
+
 NOTE - NODE RUN HONE K BAAD YE COMMAND DAAL K SCREEN CHEK KAR LENA 👇👇👇
 
 # AFTER ALL STEP CHECK YOUR NODE SCREEN COMMAND 👇👇👇
